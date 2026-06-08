@@ -12,7 +12,7 @@ Seeking to further develop my career in cybersecurity by leveraging my experienc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/huda21517264/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -64,5 +64,5 @@ Seeking to further develop my career in cybersecurity by leveraging my experienc
 </div>
 
 ## Projects
-- Detection Lab 
+- <a href="https://github.com/huda21517264/Detection-Lab">Detection Lab</a>
 - SOC Automation Project 
